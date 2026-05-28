@@ -116,6 +116,13 @@ Beacon codes sourced from community research on r/GalaxysEdge.
 
 ---
 
+## What is @FZGEN in the comments?
+
+I wrote a code generator (in perl) for Flipper Zero frameworks that takes care of most of the busy work or the event state machines.
+I will put it in https://github.com/spandox2/FZGEN really soon.
+
+---
+
 ## License
 
 Do what you want with it. Based on public community research into Galaxy's
