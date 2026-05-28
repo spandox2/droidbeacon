@@ -41,7 +41,7 @@ itself determines what reaction to perform.
 ---
 
 ## Building
-(you don't have to, the .fap file in the root here can be used directly by placing it in /ext/apps/Bluetooth/droidbeacon.fap)
+(You don't have to, the .fap file in the root here can be used directly by placing it in /ext/apps/Bluetooth/droidbeacon.fap)
 ```bash
 # Clone Unleashed firmware
 git clone --recursive https://github.com/DarkFlippers/unleashed-firmware
